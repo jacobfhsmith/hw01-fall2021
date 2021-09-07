@@ -1,0 +1,62 @@
+---
+title: "Homework #01: Data Visualization"
+subtitle: "due September 15th at 11:59 PM "
+author: "Your name here"
+date: ""
+output: pdf_document
+---
+
+# Load Packages
+
+```{r load-packages, message = FALSE, warning = FALSE}
+library(tidyverse) 
+library(viridis)
+library(ggridges)
+``` 
+
+# Load Data
+```{r load-data, message = F}
+courage <- read_csv("courage.csv")
+```
+
+
+# Exercise 1
+
+```{r ex-1}
+```
+
+# Exercise 2
+
+```{r ex-2}
+
+```
+
+# Exercise 3
+
+```{r ex-3}
+```
+
+# Exercise 4
+
+```{r ex-4}
+```
+
+# Exercise 5
+
+```{r ex-5}
+```
+
+# Exercise 6
+
+```{r ex-6}
+```
+
+# Exercise 7
+
+```{r ex-7}
+```
+
+# Exercise 8
+
+```{r ex-8}
+```
